@@ -1,0 +1,30 @@
+body{
+    background: linear-gradient(45deg, black,grey);
+}
+#country-container{
+padding: 20px;
+}
+#search-input{
+   
+    z-index: 6;
+}
+.img-fluid{
+    height: 200px;
+}
+.card{
+    text-align: center;
+    background: linear-gradient(45deg, grey,white);
+}
+.btn{
+    background: linear-gradient(45deg,blue,skyblue);
+   margin: 0px 100px;
+}
+.card-text{
+    font-weight: 600;
+}
+.card-title{
+    background: black;
+    color: #fff;
+    line-height: 3rem;
+    margin-bottom: 0;
+}
